@@ -1,3 +1,44 @@
 {
-  "freelancers": []
+  "freelancers": [
+    {
+      "name": "Owaise",
+      "email": "owaisezarger@gmail.com",
+      "password": "123",
+      "profPic": "https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png",
+      "profession": "webDeveloper",
+      "skills": ["html", "css", "js", "react"],
+      "hourlyRate": "25",
+      "id": 1
+    },
+    {
+      "name": "max",
+      "email": "max@max.in",
+      "password": "123",
+      "profPic": "https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png",
+      "profession": "student",
+      "skills": ["figma", "canva"],
+      "hourlyRate": "10",
+      "id": 2
+    },
+    {
+      "name": "Soham",
+      "email": "soham@gmail.com",
+      "password": "123",
+      "profPic": "https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png",
+      "profession": "webDeveloper",
+      "skills": ["html", "css", "js", "react"],
+      "hourlyRate": "25",
+      "id": 1
+    },
+    {
+      "name": "Dude",
+      "email": "dude@max.in",
+      "password": "123",
+      "profPic": "https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png",
+      "profession": "student",
+      "skills": ["figma", "canva"],
+      "hourlyRate": "10",
+      "id": 2
+    }
+  ]
 }
